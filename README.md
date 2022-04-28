@@ -19,3 +19,20 @@ Test your complete PyChain ledger.
 
 You’ll then upload the Python file for this Challenge to your GitHub repository. Make sure to update the README.md file to include an explanation of the Steamlit application, a screenshot or video of your deployed Streamlit application, and any other information that’s needed to interact with your project.
 
+## Running the Streamlit Application
+
+First I use GitBash to tell streamlit to run my py file:
+
+[![mintty-2022-04-28-17-27-57.png](https://i.postimg.cc/fyC4bgZz/mintty-2022-04-28-17-27-57.png)](https://postimg.cc/SYn1TdJ3)
+
+And as you can see from the following screenshot, the application runs perfectly and the blockchain is validated!
+
+[![Screenshot-12.png](https://i.postimg.cc/sD3Zxn7t/Screenshot-12.png)](https://postimg.cc/c65J5BDm)
+
+## Technologies
+For this challenge the code was done in VSC and the following libraries were imported:
+
+[![Screenshot-13.png](https://i.postimg.cc/nzkpP1rD/Screenshot-13.png)](https://postimg.cc/xJcwkMKf)
+
+## Contributors 
+Brought to you by the one and only [Omar Eid](https://www.linkedin.com/in/omar-eid-6b260b6b/)
